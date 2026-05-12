@@ -1,7 +1,6 @@
 # Looties
 
-The neon C2C marketplace for buying and selling tech swag, conference merch, and rare developer collectibles.
-
+Looties is the marketplace where developers and tech enthusiasts can buy and sell conference swag, limited-edition merch, and developer gear from the events they love.
 **Marketplace:** [looties.io](https://looties.io)
 
 ## What we build
