@@ -9,9 +9,12 @@ Looties is where developer culture meets resale. List the swag pile under your d
 
 ## Open source
 
-We publish the agent skills we use to build Looties, so other teams can reuse them:
+We publish the **[looties-skills](https://github.com/looties-io/looties-skills)** we use to build Looties, so other teams can reuse them:
 
-- **[looties-skills](https://github.com/looties-io/looties-skills)** — Cinematic, VFX-friendly Hyperframes motion design for HTML-to-video product films.
+| Skill | Description |
+|---|---|
+| [cinematic-hyperframes](./cinematic-hyperframes/) | Cinematic, VFX-friendly Hyperframes motion design for HTML-to-video product films |
+
 
 ## Find us
 
