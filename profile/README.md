@@ -13,9 +13,12 @@ We publish the **[looties-skills](https://github.com/looties-io/looties-skills)*
 
 | Skill | Description |
 |---|---|
-| [cinematic-hyperframes](./cinematic-hyperframes/) | Cinematic, VFX-friendly Hyperframes motion design for HTML-to-video product films |
-| [google-ai-seo-fundamentals](./google-ai-seo-fundamentals/) | Make sites discoverable and well-represented in Google Search AI experiences (AI Overviews and AI Mode), grounded in Google's published guidance |
-| [google-ai-seo-optimization](./google-ai-seo-optimization/) | Advanced, audit-then-fix workflow for optimizing a site end-to-end for Google AI surfaces and AI-driven organic traffic |
+| [cinematic-hyperframes](https://github.com/looties-io/looties-skills/tree/main/cinematic-hyperframes) | Cinematic, VFX-friendly Hyperframes motion design for HTML-to-video product films |
+| [code-cleanup](https://github.com/looties-io/looties-skills/tree/main/code-cleanup) | Safe, behavior-preserving code cleanup for staged or recently changed files |
+| [google-ai-seo-fundamentals](https://github.com/looties-io/looties-skills/tree/main/google-ai-seo-fundamentals) | Make sites discoverable and well-represented in Google Search AI experiences (AI Overviews and AI Mode), grounded in Google's published guidance |
+| [google-ai-seo-optimization](https://github.com/looties-io/looties-skills/tree/main/google-ai-seo-optimization) | Advanced, audit-then-fix workflow for optimizing a site end-to-end for Google AI surfaces and AI-driven organic traffic |
+| [harness-testing](https://github.com/looties-io/looties-skills/tree/main/harness-testing) | Design harness tests that boot real code into a controlled, mocked environment and assert end-to-end |
+| [website-ai-agent-readiness](https://github.com/looties-io/looties-skills/tree/main/website-ai-agent-readiness) | Website readiness for AI agents, answer engines, and machine-readable assets |
 
 
 ## Find us
