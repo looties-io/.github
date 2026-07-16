@@ -1,33 +1,20 @@
-# Looties
+<div align="center">
 
-Looties is the marketplace where developers and tech enthusiasts can buy and sell conference swag, limited-edition merch, and developer gear from the events they love.
-**Marketplace:** [looties.io](https://looties.io)
+<a href="https://looties.io"><img src="./looties-card.svg" alt="Looties — P2P marketplace for tech conference swag and developer merch" width="780"></a>
 
-## What we build
+</div>
 
-Looties is where developer culture meets resale. List the swag pile under your desk, browse rare conference merch from OpenAI, Hugging Face, and the brands shaping tech, or discover archived gear in the [Merch Museum](https://looties.io/merch-museum).
+<p align="center">
+  <a href="https://looties.io"><img alt="Live" src="https://img.shields.io/badge/looties.io-live-FF1FA1?style=for-the-badge&logoColor=white"></a>
+  <img alt="#1 on Uneed" src="https://img.shields.io/badge/%231_Product_of_the_Month-Uneed-06B6D4?style=for-the-badge">
+  <img alt="#1 on OpenLaunch" src="https://img.shields.io/badge/%231-OpenLaunch-8B5CF6?style=for-the-badge">
+</p>
 
-## Open source
-
-We publish the **[looties-skills](https://github.com/looties-io/looties-skills)** we use to build Looties, so other teams can reuse them:
-
-| Skill | Description |
-|---|---|
-| [cinematic-hyperframes](https://github.com/looties-io/looties-skills/tree/main/cinematic-hyperframes) | Cinematic, VFX-friendly Hyperframes motion design for HTML-to-video product films |
-| [code-cleanup](https://github.com/looties-io/looties-skills/tree/main/code-cleanup) | Safe, behavior-preserving code cleanup for staged or recently changed files |
-| [google-ai-seo-fundamentals](https://github.com/looties-io/looties-skills/tree/main/google-ai-seo-fundamentals) | Make sites discoverable and well-represented in Google Search AI experiences (AI Overviews and AI Mode), grounded in Google's published guidance |
-| [google-ai-seo-optimization](https://github.com/looties-io/looties-skills/tree/main/google-ai-seo-optimization) | Advanced, audit-then-fix workflow for optimizing a site end-to-end for Google AI surfaces and AI-driven organic traffic |
-| [harness-testing](https://github.com/looties-io/looties-skills/tree/main/harness-testing) | Design harness tests that boot real code into a controlled, mocked environment and assert end-to-end |
-| [website-ai-agent-readiness](https://github.com/looties-io/looties-skills/tree/main/website-ai-agent-readiness) | Website readiness for AI agents, answer engines, and machine-readable assets |
-
-
-## Find us
-
-- Marketplace: [looties.io](https://looties.io)
-- Developer conferences calendar: [looties.io/developer-conferences](https://looties.io/developer-conferences)
-- Discord: [discord.gg/A6UcsyCHCb](https://discord.gg/A6UcsyCHCb)
-- Instagram: [@looties.io](https://www.instagram.com/looties.io/)
-
----
-
-Forged in the French Alps during ranked queue.
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
