@@ -20,11 +20,24 @@
 
 ## Dev Skills
 
+Open-source agent skills we use to build Looties, generalized from real work. Install any of them with `npx skills@latest add looties-io/looties-skills --skill <name>`.
+
 - [a11y-audit](https://github.com/looties-io/looties-skills/tree/main/a11y-audit)
+- [agentic-peer-review](https://github.com/looties-io/looties-skills/tree/main/agentic-peer-review)
 - [changelog-to-video](https://github.com/looties-io/looties-skills/tree/main/changelog-to-video)
 - [cinematic-hyperframes](https://github.com/looties-io/looties-skills/tree/main/cinematic-hyperframes)
 - [code-cleanup](https://github.com/looties-io/looties-skills/tree/main/code-cleanup)
+- [endpoint-surface-map](https://github.com/looties-io/looties-skills/tree/main/endpoint-surface-map)
+- [field-web-performance](https://github.com/looties-io/looties-skills/tree/main/field-web-performance)
 - [google-ai-seo-fundamentals](https://github.com/looties-io/looties-skills/tree/main/google-ai-seo-fundamentals)
 - [google-ai-seo-optimization](https://github.com/looties-io/looties-skills/tree/main/google-ai-seo-optimization)
+- [ground-truth](https://github.com/looties-io/looties-skills/tree/main/ground-truth)
 - [harness-testing](https://github.com/looties-io/looties-skills/tree/main/harness-testing)
+- [impossible-by-design](https://github.com/looties-io/looties-skills/tree/main/impossible-by-design)
+- [legacy-code-review](https://github.com/looties-io/looties-skills/tree/main/legacy-code-review)
+- [merchant-feed-audit](https://github.com/looties-io/looties-skills/tree/main/merchant-feed-audit)
+- [merge-time-ci-economics](https://github.com/looties-io/looties-skills/tree/main/merge-time-ci-economics)
+- [postgres-privilege-audit](https://github.com/looties-io/looties-skills/tree/main/postgres-privilege-audit)
+- [provider-canary](https://github.com/looties-io/looties-skills/tree/main/provider-canary)
+- [repo-wide-dead-code-sweep](https://github.com/looties-io/looties-skills/tree/main/repo-wide-dead-code-sweep)
 - [website-ai-agent-readiness](https://github.com/looties-io/looties-skills/tree/main/website-ai-agent-readiness)
