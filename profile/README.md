@@ -18,6 +18,10 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
+## Agent Harness
+
+[looties-harness](https://github.com/looties-io/looties-harness) is the harness we run our coding agents in: Contractor-style framing, difficulty levels L0 to L2, a guard hook that stops agents from bypassing checks or weakening their own safety nets, SHA-pinned review stamps, and a nightly self-healing loop where a human accepts or rejects every new rule. It works with Claude Code and Codex, and installs with `node install.mjs <your-repo>`.
+
 ## Dev Skills
 
 Open-source agent skills we use to build Looties, generalized from real work. Install any of them with `npx skills@latest add looties-io/looties-skills --skill <name>`.
@@ -41,3 +45,4 @@ Open-source agent skills we use to build Looties, generalized from real work. In
 - [provider-canary](https://github.com/looties-io/looties-skills/tree/main/provider-canary)
 - [repo-wide-dead-code-sweep](https://github.com/looties-io/looties-skills/tree/main/repo-wide-dead-code-sweep)
 - [website-ai-agent-readiness](https://github.com/looties-io/looties-skills/tree/main/website-ai-agent-readiness)
+- [youtube-video-editing](https://github.com/looties-io/looties-skills/tree/main/youtube-video-editing)
